@@ -1,4 +1,4 @@
-# 🔍 Codebase Analyzer
+# 🔍 Agentic Codebase Analyzer
 
 A local AI agent that answers questions about any codebase using exact keyword search, semantic vector search (RAG), and file inspection — powered by Groq and a custom MCP server over stdio.
 
